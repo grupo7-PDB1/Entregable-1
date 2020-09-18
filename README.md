@@ -1,5 +1,9 @@
 # Entregable-1
 <p>El síndrome post-UCI es aquella situación que afecta a pacientes 30- 50% que sobreviven a su estancia en la unidad de cuidados intensivos y que al recibir el alta de la uci presentan secuelas físicas, cognitivas y psíquicas que impactan de forma negativa en su calidad de vida, así como en la de sus familiares y cuidadores (1). Dejando secuelas físicas y emocionales por ello la importancia de intervención del fisioterapeuta en el seguimiento del paciente con Síndrome Post-Uci de coronavirus, junto al equipo multidisciplinario para garantizar la recuperación de la funcionalidad después de haber abandonado la unidad de cuidados intensivos.</p>
+<center>
+  <img src="uploads/Arbol.png" alt="" class="img-fluid img-rounded">
+</center>
+
 <h1>CAUSAS HABITUALES DE SINDROME POST-UCI:</h1>
 <h2>Desinterés de parte de las autoridades de salud pública por programas de rehabilitación</h2>
 <h3>- SEGUIMIENTO DEL CENTRO DE SALUD:</h3>
