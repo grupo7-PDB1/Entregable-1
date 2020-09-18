@@ -22,11 +22,23 @@
 <h1>CONSECUENCIAS:</h1>
 <h2>Sociales:</h2>
 <p>Al culminar esta la etapa de UCI, tras largas horas de hospitalización, se ve alterada la calidad de vida en algunos los pacientes, los cuales no alcanzan a ver un futuro prometedor en su vida.</p>
-<p>El síndrome post-UCI impide el correcto funcionamiento de estructuras corporales, deficiencias, límites en la capacidad y un impedimento en actividades, lo que incapacita al individuo y lo lleva a ser aislado de la sociedad. [1] </p>
-<p>En cuanto a las limitaciones, se ven impedidas actividades diarias simples que restringen al individuo en su participación social recreativa o de trabajo. Mientras que con discapacidad se entiende una situación que afecta en la eficacia de realización de alguna acción. Ambas se juntan y en el contexto sociocultural se vuelve una desventaja con el entorno del afectado, la posibilidad de cumplir un rol laboral y social con serias implicaciones en el nivel emocional. [2]</p>
+<p>El síndrome post-UCI impide el correcto funcionamiento de estructuras corporales, deficiencias, límites en la capacidad y un impedimento en actividades, lo que incapacita al individuo y lo lleva a ser aislado de la sociedad. [5] </p>
+<p>En cuanto a las limitaciones, se ven impedidas actividades diarias simples que restringen al individuo en su participación social recreativa o de trabajo. Mientras que con discapacidad se entiende una situación que afecta en la eficacia de realización de alguna acción. Ambas se juntan y en el contexto sociocultural se vuelve una desventaja con el entorno del afectado, la posibilidad de cumplir un rol laboral y social con serias implicaciones en el nivel emocional. [6]</p>
 <p>El miedo es verdadero, algunas reacciones están asociadas a efectos post sedación o de ventilación mecánica lo cual aumenta el nivel de ansiedad, agitación e incluso terror, esto lo vuelve vulnerable al mundo externo y por ello intenta aislarse, esto lo desconecta de la sociedad.</p>
-<p>Tras la estadía en UCI, aparecen problemas familiares, debido a algunas secuelas frecuentes como, ansiedad (70%), depresión (35%), estrés postraumático (35%) que pueden expandirse más allá de un año. [3][4] Cabe señalar que el cuidado de un paciente postcrítico también afecta los planes de vida, relaciones sociales, desempeño profesional y puede favorecer la aparición de conflictos familiares. Lo importante es que no todas estas dificultades se presentan súbitamente en la fase aguda, sino que se van desarrollando con el pasar del tiempo y, en muchos casos, no se observa una mejora. [5]</p>
+<p>Tras la estadía en UCI, aparecen problemas familiares, debido a algunas secuelas frecuentes como, ansiedad (70%), depresión (35%), estrés postraumático (35%) que pueden expandirse más allá de un año. [7][8] Cabe señalar que el cuidado de un paciente postcrítico también afecta los planes de vida, relaciones sociales, desempeño profesional y puede favorecer la aparición de conflictos familiares. Lo importante es que no todas estas dificultades se presentan súbitamente en la fase aguda, sino que se van desarrollando con el pasar del tiempo y, en muchos casos, no se observa una mejora. [9]</p>
 <h2>Económicas:</h2>
 <center>
   <img src="uploads/cuadro.PNG" alt="" class="img-fluid img-rounded">
 </center>
+
+<h2>REFERENCIAS</h2>
+[1]"SOPEFTI", Ctmperu.org.pe, 2020. [Online]. Available: https://ctmperu.org.pe/images/ctmp/salud-publica/RECOMENDACIONES%20SOPEFTI%20-%20COVID19.pdf. [Accessed: 15- Jun- 2020].
+[2]M. Busico and F. Carini, "Programa de seguimiento al alta de la unidad de cuidados intensivos", Medicina Intensiva, 2020. [Online]. Available: https://www.medintensiva.org/es-programa-seguimiento-al-alta-unidad-articulo-S0210569119300336. [Accessed: 12- Sep- 2020].
+[3]C. Carrión Panta and V. Tafur Palomino, "Modelo de proceso para el seguimiento y control de proyectos de desarrollo de software en una empresa de soluciones TI", Repositorioacademico.upc.edu.pe, 2020. [Online]. Available: https://repositorioacademico.upc.edu.pe/bitstream/handle/10757/624975/Carri%C3%B3n_pc.pdf?sequence=10&isAllowed=y. [Accessed: 10- Jul- 2018].
+[4]K. Rojas Contreras, "APOYO FAMILIAR Y ADHERENCIA AL TRATAMIENTO EN PACIENTES ADULTOS EN HEMODIÁLISIS EN UN HOSPITAL ESSALUD", Repositorio.upch.edu.pe, 2020. [Online]. Available: http://repositorio.upch.edu.pe/bitstream/handle/upch/7092/Apoyo_RojasContreras_Karol.pdf?sequence=1&isAllowed=y. [Accessed: 15- Jun- 2019].
+[5] Organización mundial de la salud. Clasificación Internacional del funcionamiento, de la discapacidad y de la salud. Grupo de Clasificación, evaluación, encuestas y terminología. Ginebra, Suiza. Diciembre de 2000.
+[6] Consejería Presidencial para la Política Social. Plan Nacional de atención a las personas con discapacidad. Manual operativo. Sep. 2002, pp. 13-14.
+[7] Inoue et al. (2019). Post-intensive care syndrome: its pathophysiology, prevention, and future directions. Acute Medicine & Surgery, 6: 233–246
+[8] Torres et al. (2017). The impact of the patient’s post intensive care syndrome components on caregiver’s burden. Med Intensiva. S0210-5691(17)30004-9.
+[9] M. Ríos Lago, "El síndrome post-UCI | Red Menni", Xn--daocerebral-2db.es, 2020. [Online]. Available: https://xn--daocerebral-2db.es/publicacion/el-sindrome-post-uci/. [Accessed: 10- Sep- 2020]
+ 
