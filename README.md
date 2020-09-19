@@ -3,7 +3,7 @@
 <center>
   <img src="uploads/arbol.jpg" alt="" class="img-fluid img-rounded">
 </center>
-<h1>PROBLEMA: BAJA ASISTENCIA Y PERMANENCIA EN PROGRAMAS DE REHABILITACIÓN PARA PACIENTES ADULTOS CON SINDROME POST-UCI</h1>
+<h1>PROBLEMA: BAJA ADHERENCIA A PROGRAMAS DE REHABILITACIÓN PARA PACIENTES MAYORES DE 50 AÑOS CON SINDROME POST-UCI</h1>
 <h1>CAUSAS:</h1>
 <h2>Desinterés de parte de las autoridades de salud pública por programas de rehabilitación</h2>
 <h3>- SEGUIMIENTO DEL CENTRO DE SALUD:</h3>
